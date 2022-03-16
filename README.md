@@ -3,11 +3,13 @@
 
 My name is David, I'm from Canada, Quebec
 ```
-I was making .bat script in MS-DOS back in 1997
-Then i learned some VB6 in 2003-2005
+I was making .bat script on MS-DOS back in 1997,
+Then i learned some VB6 between 2006-2008,
+
 & Been playing with Python for 2-3 years.
-Currently focusing on C & C++
-You can contact me on Discord if you need to
+Currently focusing on C & C++.
+
+You can contact me on Discord if you need to.
 ```
 
 
