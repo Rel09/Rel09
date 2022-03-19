@@ -7,7 +7,7 @@ My name is David, I'm from Canada, Quebec
 I was making .bat scripts on MS-DOS back in 1997,
 Then i learned some VB6 between 2006-2008.
 
-& Been playing with Python for 2-3 years.
+& Been playing with Python since 2019.
 Currently focusing on C.
 ```
 
