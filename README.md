@@ -9,7 +9,6 @@ Then i learned some VB6 between 2006-2008.
 
 & Been playing with Python for 2-3 years.
 Currently focusing on C.
-
 ```
 
 
