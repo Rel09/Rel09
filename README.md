@@ -1,8 +1,5 @@
 ### Bienvenue sur mon Github / Welcome on my Github :fox_face:
 
-
-My name is David, I'm from Canada, Quebec
-
 ```
 I was making .bat scripts on MS-DOS back in 1997,
 Then i learned some VB6 between 2006-2008.
