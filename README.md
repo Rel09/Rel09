@@ -5,7 +5,7 @@ I was making .bat scripts on MS-DOS back in 1997,
 Then i learned some VB6 between 2006-2008.
 
 & Been playing with Python since 2019.
-Currently focusing on C.
+Currently focusing on C, C++, Reverse Engineering, and more.
 ```
 
 
