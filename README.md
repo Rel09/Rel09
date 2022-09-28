@@ -10,7 +10,6 @@ Then i learned some VB6 between 2006-2008.
 Currently focusing on C, C++, Reverse Engineering, and more.
 ```
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rel09&theme=radical&layout=compact"/>
-```https://www.codewars.com/users/Rel09/```
 <img class="img" src="https://www.codewars.com/users/Rel09/badges/large" />
 
 
