@@ -12,6 +12,7 @@ Currently focusing on C, C++, Reverse Engineering, and more.
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rel09&theme=radical&layout=compact" />
 </div>
-<img class="img" src="https://www.codewars.com/users/Rel09/badges/large" />
 ```https://www.codewars.com/users/Rel09/```
+<img class="img" src="https://www.codewars.com/users/Rel09/badges/large" />
+
 
