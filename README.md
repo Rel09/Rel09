@@ -12,7 +12,7 @@ Currently focusing on C, C++, Reverse Engineering, and more.
 
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rel09&theme=radical&layout=compact" />
 
-```https://www.codewars.com/users/Rel09/```
+```https://www.codewars.com/users/Rel09/\n```
 <img class="img" src="https://www.codewars.com/users/Rel09/badges/large" />
 
 
