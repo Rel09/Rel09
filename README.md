@@ -7,6 +7,7 @@ Then i learned some VB6 between 2006-2008.
 
 & Been playing with Python since 2017.
 Currently focusing on C, C++, and more.
+
 Reverse Engineering enthusiast
 42's Student
 ```
