@@ -11,7 +11,7 @@ Currently focusing on C, C++, and more.
 Reverse Engineering enthusiast
 42's Student
 ```
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rel09&theme=radical&layout=compact&hide=Python"/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rel09&theme=radical&layout=compact"/>
 <img class="img" src="https://www.codewars.com/users/Rel09/badges/large" />
 
 
