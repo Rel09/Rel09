@@ -10,8 +10,6 @@ Currently focusing on C, C++, and more.
 
 Reverse Engineering enthusiast
 42's Student
-<img class="img" src="https://data.typeracer.com/misc/badge?user=religious09"/>
 
-<img class="img" src="https://www.codewars.com/users/Rel09/badges/small" />
-
-
+![Alt Text]([https://example.com/image.png](https://data.typeracer.com/misc/badge?user=religious09"))
+![Alt Text]([https://example.com/image.png](https://www.codewars.com/users/Rel09/badges/small))
