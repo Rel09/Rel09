@@ -11,5 +11,6 @@ Currently focusing on C, C++, and more.
 Reverse Engineering enthusiast
 42's Student
 
-![Alt Text]([https://example.com/image.png](https://data.typeracer.com/misc/badge?user=religious09"))
-![Alt Text]([https://example.com/image.png](https://www.codewars.com/users/Rel09/badges/small))
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rel09&text_color=000000&layout=default&bg_color=DEG,302c2c,454040,544f4f)](https://github.com/Rel09)
+[![Typeracer Badge](https://data.typeracer.com/misc/badge?user=religious09)](https://data.typeracer.com/pit/profile?user=religious09)
+
