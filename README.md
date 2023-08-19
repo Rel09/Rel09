@@ -6,7 +6,7 @@ I was making .bat scripts on MS-DOS back in 1997,
 Then i learned some VB6 between 2006-2008.
 
 & Been playing with Python since 2017.
-Currently focusing on C, C++, and more.
+Currently focusing on C, C++, React Native and more.
 
 Reverse Engineering enthusiast
 42's Student
