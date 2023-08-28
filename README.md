@@ -1,14 +1,24 @@
-### Bienvenue sur mon Github / Welcome on my Github :fox_face:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F75357&width=435&lines=Welcome+to+my+GitHub" alt="Typing SVG">
+</p>
 
-```https://www.codewars.com/users/Rel09```
-```
-I was making .bat scripts on MS-DOS back in 1997,
-Then i learned some VB6 between 2006-2008.
 
-& Been playing with Python since 2017.
-Currently focusing on C, C++, React Native and more.
+### About Me
+<img align="right" src="https://data.typeracer.com/misc/badge?user=religious09" class="img">
 
-Reverse Engineering enthusiast
-42's Student
-```
-<img class="img" src="https://data.typeracer.com/misc/badge?user=religious09"/>
+- [Codewars Profile](https://www.codewars.com/users/Rel09)<br>
+- I used to make MS-DOS scripts back in 1997<br>
+- Explored VB6 between 2006-2009<br>
+- I embarked on my programming journey in 2017, with Python as my starting point<br>
+- Currently diving deep into C, C++, and React Native<br>
+- Reverse Engineering enthusiast<br>
+- 42's Student
+
+<h3 align="left">Languages</h3>
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="60" height="60"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react native" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+</p>
