@@ -10,7 +10,7 @@
 - I used to make MS-DOS scripts back in 1997<br>
 - Explored VB6 between 2006-2009<br>
 - I embarked on my programming journey in 2017, with Python as my starting point<br>
-- Currently diving deep into C, C++, and React Native<br>
+- Currently diving deep into C, C++, JS, React Native, Etc. <br>
 - Reverse Engineering enthusiast<br>
 - 42's Student
 
