@@ -6,7 +6,6 @@
 ### About Me
 <img align="right" src="https://data.typeracer.com/misc/badge?user=religious09" class="img">
 
-- [Codewars Profile](https://www.codewars.com/users/Rel09)<br>
 - I used to make MS-DOS scripts back in 1997<br>
 - Explored VB6 between 2006-2009<br>
 - I embarked on my programming journey in 2017, with Python as my starting point<br>
