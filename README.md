@@ -11,7 +11,7 @@
 - I embarked on my programming journey in 2017, with Python as my starting point<br>
 - Currently diving deep into C, C++, JS, React Native, Etc. <br>
 - Reverse Engineering enthusiast<br>
-- 42's Student
+- 42's Alumni
 
 <h3 align="left">Languages</h3>
 <p align="left"> 
